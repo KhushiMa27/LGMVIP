@@ -1,2 +1,1 @@
-# LGMVIP
-internship web development task 1
+Feel the world
